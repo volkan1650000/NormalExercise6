@@ -1,4 +1,5 @@
 ﻿# NormalExercise6
+ 
 Class 1 - Letter Representations for Phone Keypad
 Description: Maps letters to numbers on an old phone keypad and determines if given words can be represented by input numbers.
 
